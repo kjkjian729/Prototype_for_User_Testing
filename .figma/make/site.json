@@ -1,0 +1,10 @@
+{
+  "description": "Enables seamless user testing by hosting interactive prototypes with a custom design system, facilitating efficient feedback and iteration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
